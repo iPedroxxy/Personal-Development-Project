@@ -1,6 +1,6 @@
-## 📌 Plano de Desenvolvimento Individual - PDI (1 Ano)
+## 📌 Personal Development Project
 
-<img src="[[https://imgur.com/gp15ziL.png](https://scontent.fbau1-1.fna.fbcdn.net/v/t39.30808-6/288964217_586625059466505_7567686726363965160_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4X6z-PR_nGwQ7kNvgE1s1r4&_nc_zt=23&_nc_ht=scontent.fbau1-1.fna&oh=00_AYDD7yVAXBMdIbhspLudsmEzaLH3ZzIivSPcYbMbpNktNg&oe=665BC008)"](https://scontent.fbau1-1.fna.fbcdn.net/v/t39.30808-6/288964217_586625059466505_7567686726363965160_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4X6z-PR_nGwQ7kNvgE1s1r4&_nc_zt=23&_nc_ht=scontent.fbau1-1.fna&oh=00_AYDD7yVAXBMdIbhspLudsmEzaLH3ZzIivSPcYbMbpNktNg&oe=665BC008)">
+<img src="">
 
 ## 💡 Objetivo Principal
 
@@ -8,9 +8,9 @@ Adquirir conhecimentos e habilidades para conseguir desenvolver e implementar so
 
 ## Informações Pessoais
 
-- **Nome**: Maria Emília da Silva Lelis
-- **Formação**: Bacharel em Direito (2016 - 2020) e Ciência da Computação (2022 - 2025)
-- **Momento da Carreira**: Estagiária na Squad Garantidos da Comunidade de Crédito PF no Itaú Unibanco
+- **Name**: Pedro Henrique Zaratini Piras
+- **Training**: Tecnologo em Gestão de Tecnologia da Informação (2021 - 2024)
+- **Career Moment**: Tecnico de apoio ao usuario de informatica (HELPDESK) T.I
 
 ## 📊 Trajetória Profissional
 
@@ -24,7 +24,7 @@ Adquirir conhecimentos e habilidades para conseguir desenvolver e implementar so
 
 | Data | Check | Ação |
 |-----|------------------|---------------------|
-| 12/2023| ✅              | Bagde Practitioner Hub Dados&Analytics   |
+| 12/2023|               | Bagde Practitioner Hub Dados&Analytics   |
 | 2024| [ ]              | Buscar feedback regularmente dos colegas e supervisores    |
 | 2024| [ ]              | - |
 
