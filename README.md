@@ -14,8 +14,10 @@ Adquirir conhecimentos e habilidades para conseguir desenvolver e implementar so
 
 ## 📊 Trajetória Profissional
 
-| 2022 | 2023 | 2024 |
-|--------------------|
+|                               2022                             | 2023 | 2024 |
+|----------------------------------------------------------------|------|------|
+|Técnico freelancer para escola E. E. José Conti                 |
+|Freelancer em design para apresentações power point educacionais|
 
 ## 📌 Planos de Ação para Minha Carreira
 
