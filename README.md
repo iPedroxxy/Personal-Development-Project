@@ -14,7 +14,7 @@ Adquirir conhecimentos e habilidades para conseguir desenvolver e implementar so
 
 ## 📊 Trajetória Profissional
 
-| 2021 | 2022 | 2022 - 2023 | 2024 |
+| 2022 | 2022 - 2023 | 2024 |
 |-------------|-------------|-------------|-------------|
 | Finalização do período de Estágio no TJGO | Transição de Carreira | Início do período de estágio no Itaú Unibanco | Desenvolvimento em Dados
 | Estudos para concurso | Início dos estudos em Tecnologia | Inclusão na Squad de SRE | Mudança para Comunidade Crédito PF
