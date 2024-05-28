@@ -14,12 +14,11 @@ Adquirir conhecimentos e habilidades para conseguir desenvolver e implementar so
 
 ## 📊 Trajetória Profissional
 
-|                               2022                             | 2023 | 2024 |
-|----------------------------------------------------------------|------|------|
-|Técnico freelancer para escola E. E. José Conti                 |
-|Freelancer em design para apresentações power point educacionais|
-|Primeiro prototipo UI|UX de um web site para faculdade          |
-|----------------------------------------------------------------|------|------|
+|                                 2022                                    |                                     2023                         | 2024 |
+|-------------------------------------------------------------------------|------------------------------------------------------------------|------|
+|     Técnico freelancer de informatica para escola E. E. José Conti      |     Agente de organização escolar E. E. Fazenda Vista Alegre     |
+|     Freelancer em design para apresentações power point educacionais    |     Técnico de informatica E. E. Fazenda Vista Alegre (Estágio)  |
+|     Primeiro prototipo UI|UX de um web site para faculdade              |     Parte de produção de um ERP universitario em PHP             |
 
 ## 📌 Planos de Ação para Minha Carreira
 
