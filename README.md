@@ -18,6 +18,8 @@ Adquirir conhecimentos e habilidades para conseguir desenvolver e implementar so
 |----------------------------------------------------------------|------|------|
 |Técnico freelancer para escola E. E. José Conti                 |
 |Freelancer em design para apresentações power point educacionais|
+|Primeiro prototipo UI|UX de um web site para faculdade          |
+|----------------------------------------------------------------|------|------|
 
 ## 📌 Planos de Ação para Minha Carreira
 
