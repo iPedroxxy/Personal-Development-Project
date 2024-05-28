@@ -9,8 +9,8 @@ Adquirir conhecimentos e habilidades para conseguir desenvolver e implementar so
 ## Informações Pessoais
 
 - **Name**: Pedro Henrique Zaratini Piras
-- **Training**: Tecnologo em Gestão de Tecnologia da Informação (2021 - 2024)
-- **Career Moment**: Tecnico de apoio ao usuario de informatica (HELPDESK) T.I
+- **Training**: Tecnólogo em Gestão de Tecnologia da Informação (2021 - 2024)
+- **Career Moment**: Técnico de apoio ao usuario de informatica (HELPDESK) T.I
 
 ## 📊 Trajetória Profissional
 
