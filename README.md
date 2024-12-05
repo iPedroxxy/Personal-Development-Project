@@ -1,37 +1,55 @@
 ## 📌 Personal Development Project
 
 <img src="">
+💡 Objetivo Principal
+Desenvolver habilidades avançadas em redes de computadores e, ao mesmo tempo, expandir competências em desenvolvimento web, permitindo a criação de soluções que integrem infraestrutura e aplicações web para atender demandas de empresas que buscam inovação e eficiência operacional.
 
-## 💡 Objetivo Principal
+📋 Informações Pessoais
+Nome: Pedro Henrique Zaratini Piras
+Formação: Tecnólogo em Gestão de Tecnologia da Informação (2021 - 2024)
+Momento de Carreira: Analista De Redes
 
-Adquirir conhecimentos e habilidades para conseguir desenvolver e implementar soluções com os dados, abordando desafios específicos da empresa, como previsão da demanda, otimização dos processos ou até mesmo a personalização de um produto conforme a necessidade do cliente.
+📊 Trajetória Profissional
+Ano	Experiência Profissional
+2022	Técnico freelancer de informática para a escola E. E. José Conti
+2023	Agente de organização escolar e técnico de informática (estágio) na E. E. Fazenda Vista Alegre
+2024	Freelancer em design de apresentações PowerPoint educacionais e participação no desenvolvimento de ERP em PHP
 
-## Informações Pessoais
+📌 Planos de Ação para Minha Carreira
+Data	Status	Ação
+2024	[X]	Iniciar estudos em redes
+2024	[X]	Aprender frameworks de desenvolvimento web como React e Node.js
+2024	[X]	Criar um projeto pessoal integrando infraestrutura de rede com uma aplicação web
 
-- **Name**: Pedro Henrique Zaratini Piras
-- **Training**: Tecnólogo em Gestão de Tecnologia da Informação (2021 - 2024)
-- **Career Moment**: Técnico de apoio ao usuario de informatica (HELPDESK) T.I
+🎯 Objetivos da Minha Carreira
+Metas de Curto Prazo	Metas de Médio Prazo	Metas de Longo Prazo
+Obter certificação CCNA da Cisco	Desenvolver habilidades para gerenciar redes e aplicações	Tornar-se referência na integração de redes e desenvolvimento web
+Aprender linguagens essenciais para a web (HTML, CSS, JS)	Contribuir para projetos que integrem infraestrutura e web	Criar e liderar projetos completos de infraestrutura digital
+Criar um portfólio com aplicações web simples	Participar em equipes multidisciplinares de TI	Tornar-se líder técnico em projetos de TI
 
-## 📊 Trajetória Profissional
 
-|                                 2022                                    |                                     2023                         | 2024 |
-|-------------------------------------------------------------------------|------------------------------------------------------------------|------|
-|     Técnico freelancer de informatica para escola E. E. José Conti      |     Agente de organização escolar E. E. Fazenda Vista Alegre     |
-|     Freelancer em design para apresentações power point educacionais    |     Técnico de informatica E. E. Fazenda Vista Alegre (Estágio)  |
-|     Primeiro prototipo UI/UX de um web site para faculdade              |     Parte de produção de um ERP universitario em PHP             |
+📖 Materiais e Recursos de Estudo
+Cursos Online:
+Redes: Cisco Networking Academy (CCNA), CompTIA Security+ (Udemy)
 
-## 📌 Planos de Ação para Minha Carreira
+Desenvolvimento Web:
+"The Complete Web Developer in 2024: Zero to Mastery" (Udemy)
+FreeCodeCamp (Certificações em HTML, CSS, JavaScript)
 
-| Data | Check | Ação |
-|-----|------------------|---------------------|
-| 12/2023|               | Bagde Practitioner Hub Dados&Analytics   |
-| 2024| [ ]              | Buscar feedback regularmente dos colegas e supervisores    |
-| 2024| [ ]              | - |
+Livros:
+"Redes de Computadores" – Andrew Tanenbaum
+"Eloquent JavaScript" – Marijn Haverbeke
+Simuladores de Redes: Packet Tracer, GNS3
 
-## 🎯 Objetivos da Minha Carreira
-
-| Metas de Curto Prazo | Metas de Médio Prazo | Metas de Longo Prazo |
-|-------------|-------------|-------------|
-| Obter minha efetivação | Desenvolver habilidades com foco em tarefas específicas relacionadas à análise e visualização de dados | Repassar um pouco do meu conhecimento para outras pessoas |
-| Obter a certificação AWS Certified Developer - Associate | Participar ativamente de pelo menos um projeto envolvendo dados | Conduzir independentemente uma demanda dentro da squad |
-| - | - | - |
+💻 Projeto Pessoal Proposto
+Nome: Plataforma de Monitoramento de Redes Integrada
+Descrição: Desenvolver uma aplicação web que permita monitorar redes de computadores, integrando APIs RESTful para capturar dados de dispositivos conectados.
+Funcionalidades:
+Interface para visualização de tráfego de rede.
+Alertas em tempo real para falhas.
+Relatórios gerados automaticamente.
+Tecnologias:
+Frontend: React.js
+Backend: Node.js com Express
+Banco de Dados: MongoDB ou PostgreSQL
+Monitoramento: Integração com Zabbix ou SNMP
